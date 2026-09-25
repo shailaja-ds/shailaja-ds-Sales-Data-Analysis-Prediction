@@ -1,0 +1,11 @@
+order_id,product,category,quantity,price,sales
+1001,Laptop,Electronics,2,60000,120000
+1002,Phone,Electronics,3,25000,75000
+1003,Headphones,Accessories,5,3000,15000
+1004,Tablet,Electronics,2,20000,40000
+1005,Laptop,Electronics,1,65000,65000
+1006,Phone,Electronics,4,22000,88000
+1007,Smartwatch,Accessories,3,8000,24000
+1008,Tablet,Electronics,2,18000,36000
+1009,Headphones,Accessories,6,2500,15000
+1010,Phone,Electronics,5,24000,120000
